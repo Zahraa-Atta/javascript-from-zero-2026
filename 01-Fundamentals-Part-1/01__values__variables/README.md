@@ -1,65 +1,20 @@
-# 📌 Values and Variables
+# 📚 Section 01: JavaScript Fundamentals – Part 1
 
-## 🧠 Lesson Overview
+This folder contains my practice files and notes for the first section of the course. I focused on understanding the core syntax and how JavaScript handles data.
 
-In this file, I practiced:
+## 🧠 Key Concepts Learned
+- **Values and Types:** Strings, Numbers, and the basic building blocks of JS.
+- **Variable Declarations:** - `let`: For variables that change.
+  - `const`: For fixed values (Best practice).
+- **Naming Conventions:** - Using `camelCase` for clean code.
+  - Handling reserved words (e.g., using `$function`).
+  - Differentiating between `snake_case` and `camelCase`.
 
-* Printing values using console.log()
-* Declaring variables with let
-* Storing strings and numbers
-* Naming conventions for variables
+## 📂 Files in this Section
+- `01-values-and-variables.js`: My first practice with data declaration and naming rules.
 
-----
+## 💡 Technical Insight
+In this section, I learned that naming variables is not just about making the code work, but about making it **readable** for other developers. For example, using `$function` shows how to work around reserved keywords while keeping the code valid.
 
-## 💻 Code Examples
-
-### 1️⃣ Printing Values
-```js
-console.log('zahraa');
-console.log(24);
-```
-* You can print text (strings) and numbers directly to the console.
-
-----
-
-### 2️⃣ Variables
-```js
-let firstName = "zahraa";
-
-console.log(firstName);
-console.log(firstName);
-console.log(firstName);
-```
-
-* let is used to declare a variable.
-* Variables store reusable data.
-* We can use the variable multiple times.
-
-### 3️⃣ Variable Naming
-```js
-let zahraaSara = 'ZS';
-let $function = 27;
-
-let person = 'zahraa';
-let PI = 3.14;
-
-let myFirstJob = 'Coder';
-let myCurrentJob = 'Teacher';
-
-let job1 = 'programmer';
-let job2 = 'teacher';
-```
-**Tips:**
-
-* Use meaningful names like myFirstJob
-* Use camelCase for multi-word variables
-* Avoid unclear names like job1 and job2
-
-🚀 What I Learned
-
-* Variables store data for later use.
-* let allows changing the value if needed.
-* Clear naming makes code readable and organized.
-
-
-✅ Day 01 – JavaScript Fundamentals
+---
+*Status: 🏗️ In Progress*
