@@ -1,35 +1,35 @@
-# 🦁 JavaScript Mastery Journey
+# 🦁 JavaScript Mastery Journey: From Zero to Hero
 
-> "Code never lies, comments sometimes do." - My journey from zero to hero in the Frontend world.
+> "Code never lies, comments sometimes do." — Documenting my professional path in the Frontend world.
 
-This repository is my personal archive for mastering **JavaScript** through **Jonas Schmedtmann's** course. I document every concept and exercise here using "Clean Code" principles.
+Welcome to my personal archive for mastering **Modern JavaScript**. This repository follows **Jonas Schmedtmann's** curriculum, focusing on "Clean Code" principles and logical problem-solving.
 
 ---
 
-## 🗺️ Roadmap
+## 🗺️ Learning Roadmap
 
-I organize my lessons into separate folders. Each folder contains the practical code and a summary of the theory learned:
+I organize my progress into structured sections. Each folder contains deep-dive exercises and theoretical summaries:
 
 | Section | Key Content | Status |
 | :--- | :--- | :---: |
-| [01-Fundamentals-Part-1](./01-Fundamentals-Part-1) | Variables, Naming Conventions, and Basics | 🏗️ In Progress |
-| Next Steps | Upcoming JavaScript Fundamentals | ⏳ Coming Soon |
+| [📂 01-Fundamentals-Part-1](./01-Fundamentals-Part-1) | Variables, Data Types, Logic, and Operators | ✅ Completed |
+| [📂 02-Fundamentals-Part-2](./02-Fundamentals-Part-2) | Functions, Arrays, Objects, and Loops | 🏗️ In Progress |
+| [📂 03-Developer-Skills](./) | Debugging, Thinking like a dev, and Tools | ⏳ Next Up |
 
 ---
 
-## 🛠️ My Coding Style
-
-To stand out as a developer, I follow these rules in this repository:
-- **Descriptive Naming:** No `x` or `y`; I use meaningful names like `userAge`.
-- **Thoughtful Documentation:** Using comments to explain "why" a specific solution was chosen.
-- **Hands-on Practice:** Solving all the Coding Challenges within the course.
-
----
-
-## 📈 Progress Statistics
-- **Current Level:** Ambitious Beginner
-- **Languages:** JavaScript (ES6+)
-- **Goal:** Achieving professional Frontend Mastery.
+## 🛠️ My Professional Coding Standards
+To stand out as a developer, I strictly follow these rules:
+- **Meaningful Naming:** Using descriptive names like `isUserLoggedIn` instead of `x`.
+- **ES6+ Standards:** Leveraging modern syntax (Template Literals, Arrow Functions, etc.).
+- **Documentation:** Explaining the "Why" behind the logic, not just the "How".
 
 ---
-⌨️ Crafted with ❤️ by Zahraa | 2026
+
+## 📈 My Tech Stack & Progress
+- **Language:** JavaScript (ES2022+)
+- **Focus:** Logic Building & Architecture.
+- **Current Goal:** Mastering DOM Manipulation & Asynchronous JS.
+
+---
+⌨️ Crafted with ❤️ by **Zahraa** | 2026
